@@ -1,0 +1,8 @@
+sentenca,rotulo
+"eu não gosto deste restaurante",-1
+"estou cansado dessas coisas",-1
+"eu me sinto bem com essas cervejas",1
+"eu amo esse sanduíche",1
+"este é um lugar incrível!",1
+"este laboratório é ótimo",1
+"algumas pessoas poderiam não existir",1
